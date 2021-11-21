@@ -5,7 +5,6 @@
 #include<algorithm>
 #include<iomanip>
 #include<process.h>
-#include<bits/stdc++.h>
 using namespace std;
 
 class Item
